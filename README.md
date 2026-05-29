@@ -89,7 +89,6 @@ The starting point of the project, the mathematical background and some opinions
 
 * *Stochastic Modified Equations and Adaptive Stochastic Gradient Algorithms* - Quinxiao Li, Cheng Tai, Weinan E
 * *Stochastic Gradient and Langevin Processes* - Xiang Cheng, Dong Yin, Peter Bartlett, Michael Jordan
-* *Bayesian Learning via Stochastic Gradient Langevin Dynamics* - Max Welling, Yee Whye Teh
 * *Stochastic Gradient Descent as Approximate Bayesian Inference* - Stephan Mandt, Matthew D. Hoffman, David M. Blei
 
 Other papers used while developing the project can be found in the `references\others` folder.
