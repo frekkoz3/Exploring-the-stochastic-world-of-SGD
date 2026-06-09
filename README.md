@@ -14,19 +14,15 @@ The project is divided into multiple sections.
 
 We derive the approximation of SGD and some of its variants as **Stochastic Differential Equations (SDEs)**.
 
-### 2. Relevant Stochastic Properties
-
-We compute and discuss several important stochastic properties of the SDE associated with SGD.
-
-### 3. Visualization on Toy Landscapes
+### 2. Visualization on Toy Landscapes
 
 We visualize SGD and its stochastic behavior on simple optimization landscapes, such as the **Double Valley** potential.
 
-### 4. Neural Network Experiments
+### 3. Neural Network Experiments
 
 We empirically test the stochastic properties discussed in the theoretical sections using a small neural network.
 
-### 5. Comparison with Other Stochastic Optimization Techniques
+### 4. Comparison with Other Stochastic Optimization Techniques
 
 We compare the stochastic behavior of SGD with other optimization techniques, such as:
 
@@ -41,10 +37,10 @@ We compare the stochastic behavior of SGD with other optimization techniques, su
 ```bash
 ├── figures/                       # Folder containg figures for notebooks
 ├── notebooks/                     # Folder containg notebooks
-    ├── 01_theory.ipynb            # Sections 1 and 2
-    ├── 02_visualization.ipynb     # Section 3
-    ├── 03_nn_experiment.ipynb     # Section 4
-    ├── 04_comparison.ipynb        # Section 5
+    ├── 01_theory.ipynb            # Section 1
+    ├── 02_visualization.ipynb     # Section 2
+    ├── 03_nn_experiment.ipynb     # Section 3
+    ├── 04_comparison.ipynb        # Section 4
 ├── references/                    # Folder containing various resources and references
 ├── README.md
 └── requirements.txt
