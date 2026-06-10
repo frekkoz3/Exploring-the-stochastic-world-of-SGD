@@ -28,7 +28,6 @@ We compare the stochastic behavior of SGD with other optimization techniques, su
 
 * Swarm Optimization
 * Simulated Annealing
-* Langevin-based methods
 
 ---
 
