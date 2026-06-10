@@ -6,3 +6,5 @@ env
 # python related cache
 __pycache__
 .__pycache__
+# mnist
+notebooks/data/
